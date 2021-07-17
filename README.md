@@ -50,17 +50,14 @@ I'm a Student/Part-time Developer trying to be full-time!
 
 <br>
 
-<h2 align="center">🐦 Siddhant's Github Stats </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula>
-</p>
-<br/>
+🐦 ![Siddhant's Github stats](https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula)
+<br>
 
 
  
 
 
-<h2 align="center">I ❤️ Memes :wink:</h2>
+<h2 align="center"> I ❤️ Memes :wink:</h2>
 <p align="center">
 <img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 </p>
