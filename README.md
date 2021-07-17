@@ -9,7 +9,7 @@ I'm a Student/Part-time Developer trying to be full-time!
 <br><br>
 
 <div class="hello">
-  <div class="inner" ><"assets/animation_300_kckabl3r.gif" height="200" width="200" align="right" padding-top:"20"></div>
+  <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200" align="right" padding-top:"20"></div>
 </div>
 </p>
 
