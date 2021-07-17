@@ -1,4 +1,4 @@
-<h2 align="center"> Hello 👋 there<br> I'm Siddhant Negi</a></h2>
+<h2> Hello 👋 there<br> I'm Siddhant Negi</a></h2>
 <br>
 - I'm a Student/Part-time Developer trying to be full-time!
 <br>
@@ -14,7 +14,7 @@
 </div>
 </p>
 
-<p align="center">
+<p>
   <samp>
 </a>
  <h3>Connect with me:</h3>
@@ -49,7 +49,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
 
-<br>
+<br><br>
 
 🐦 ![Siddhant's Github stats](https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula)
 <br>
