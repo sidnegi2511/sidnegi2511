@@ -1,6 +1,6 @@
-<h3 align="center"> Hi 👋 there, I'm Siddhant Negi</a></h4>
+<h1 align="center"> Hello 👋 there<br> I'm Siddhant Negi</a></h1>
 <br>
-I'm a Student, Developer, and Learner!
+I'm a Student/Part-time Developer trying to be full-time!
 <br>
 - 👯 Looking to collaborate for projects.
 - Open to all types of feedback.
@@ -8,9 +8,15 @@ I'm a Student, Developer, and Learner!
 - 🥅 2021 Goals: Enhancing my skills and getting a good job.
 <br><br>
 
+<div class="hello">
+  <div class="inner" ><"assets/animation_300_kckabl3r.gif" height="200" width="200" align="right" padding-top:"20"></div>
+</div>
+</p>
+
 <p align="center">
   <samp>
 </a>
+ ## Connect with me:
 <a href="https://twitter.com/negi_was_here">
   <img  alt="Siddhant's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -31,7 +37,7 @@ I'm a Student, Developer, and Learner!
   <br>
  </p>
  
-**Languages and Tools:**
+##Languages and Tools:
 <br><br>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
@@ -44,9 +50,9 @@ I'm a Student, Developer, and Learner!
 
 <br>
 
-<h2 align="center">🐦 Github Statistics </h2>
+<h2 align="center">🐦 Siddhant's Github Stats </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula>
 </p>
 <br/>
 
