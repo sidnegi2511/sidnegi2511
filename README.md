@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋 there<br> I'm Siddhant Negi</a></h1>
+<h2 align="center"> Hello 👋 there<br> I'm Siddhant Negi</a></h2>
 <br>
 I'm a Student/Part-time Developer trying to be full-time!
 <br>
@@ -7,16 +7,16 @@ I'm a Student/Part-time Developer trying to be full-time!
 <br>
 - 🥅 2021 Goals: Enhancing my skills and getting a good job.
 <br><br>
-
+<p>
 <div class="hello">
-  <div class="inner" ><img src="assets/animation_300_kckabl3r.gif" height="200" width="200" align="right" padding-top:"20"></div>
+  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kckabl3r.gif" height="200" width="200" align="right" padding-top:"20"></div>
 </div>
 </p>
 
 <p align="center">
   <samp>
 </a>
- ## Connect with me:
+ <h3>Connect with me:</h3>
 <a href="https://twitter.com/negi_was_here">
   <img  alt="Siddhant's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -37,7 +37,7 @@ I'm a Student/Part-time Developer trying to be full-time!
   <br>
  </p>
  
-##Languages and Tools:
+<h3>Languages and Tools:</h3>
 <br><br>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
