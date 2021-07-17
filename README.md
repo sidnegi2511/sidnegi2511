@@ -55,7 +55,9 @@
 ![Siddhant's Github stats](https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula)
 <br>
 
-
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{sidnegi2511}/count.svg)
+<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
  
 <h2 align="center"> I ❤️ Memes :wink:</h2>
 <p align="center">
