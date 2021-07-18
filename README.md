@@ -59,9 +59,8 @@
 </a>
 </p>
 <h2>:zap: GitHub Stats</h2>
-<p align="center">
 ![Siddhant's Github stats](https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula)
-</p>
+
 **Visitors Count**  
 
 ![VisitorCount](https://profile-counter.glitch.me/{sidnegi2511}/count.svg)
