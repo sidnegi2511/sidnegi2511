@@ -2,7 +2,7 @@
 <br>
 - I'm a Student/Part-time Developer trying to be full-time!
 <br>
-- 👯 Looking to collaborate for projects.
+- 👬 Looking to collaborate for projects.
 <br>
 - Open to all types of feedback.
 <br>
@@ -10,7 +10,7 @@
 <br><br>
 <p>
 <div class="hello">
-  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kckabl3r.gif" height="200" width="200" align="right" padding-top:"20"></div>
+  <div class="inner" ><img src="https://raw.githubusercontent.com/auralshin/auralshin/master/assets/animation_300_kckabl3r.gif" height="150" width="150" align="right" padding-top:"20"></div>
 </div>
 </p>
 
@@ -50,8 +50,15 @@
 
 <br>
 <br>
+### :zap: Most used languages ❤️
 
-
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sidnegi2511&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidnegi2511&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidnegi2511&theme=dracula">
+</a>
+</p>
+<br><br>
 ![Siddhant's Github stats](https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula)
 <br>
 
