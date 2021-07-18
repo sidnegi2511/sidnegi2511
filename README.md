@@ -50,7 +50,7 @@
 
 <br>
 <br>
-### :zap: Most used languages ❤️
+<h3>zap: Most used languages ❤️</h3>
 
 <p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sidnegi2511&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -58,9 +58,9 @@
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sidnegi2511&theme=dracula">
 </a>
 </p>
-<br><br>
+
+
 ![Siddhant's Github stats](https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula)
-<br>
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sidnegi2511}/count.svg)
