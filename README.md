@@ -1,4 +1,4 @@
-<h2> Hello 👋 there<br> I'm Siddhant Negi</a></h2>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://sidnegi2511.github.io/Initial-Website/"> Siddhant Negi </a></h1>
 <br>
 - I'm a Student/Part-time Developer trying to be full-time!
 <br>
@@ -50,7 +50,7 @@
 
 <br>
 <br>
-<h3>zap: Most used languages ❤️</h3>
+<h3>:zap: Most used languages ❤️</h3>
 
 <p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=sidnegi2511&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
