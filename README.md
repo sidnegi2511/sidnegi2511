@@ -1,10 +1,10 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://sidnegi2511.github.io/Initial-Website/"> Siddhant Negi </a></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm <a href="https://sidnegi2511.github.io/Initial-Website/"> Siddhant Negi </a></h1>
 <br>
-- I'm a Student/Part-time Developer trying to be full-time!
+- 👨‍💻 I'm a Student/Part-time Developer trying to be a full-time developer!
 <br>
 - 👬 Looking to collaborate for projects.
 <br>
-- Open to all types of feedback.
+- :keyboard: Open to all types of feedback.
 <br>
 - 🥅 2021 Goals: Enhancing my skills and getting a good job.
 <br><br>
@@ -17,7 +17,7 @@
 <p>
   <samp>
 </a>
- <h3>Connect with me:</h3>
+ <h3>Connect with me</h3>
 <a href="https://twitter.com/negi_was_here">
   <img  alt="Siddhant's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -38,7 +38,7 @@
   <br>
  </p>
  
-<h3>Languages and Tools:</h3>
+<h3>Languages and Tools</h3>
 <br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -60,12 +60,7 @@
 </p>
 <h2>:zap: GitHub Stats</h2>
 
-![Siddhant's Github stats](https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula)
-
-**Visitors Count**  
-
-![VisitorCount](https://profile-counter.glitch.me/{sidnegi2511}/count.svg)
-<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
+![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidnegi2511&show_icons=true&theme=dracula)
  
 <h2 align="center"> I ❤️ Memes :wink:</h2>
 <p align="center">
