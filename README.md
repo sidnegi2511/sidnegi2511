@@ -18,21 +18,16 @@
   <samp>
 </a>
  <h3>Connect with me</h3>
-<a href="https://twitter.com/negi_was_here">
-  <img  alt="Siddhant's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/siddhant-negi-875a39168">
-  <img  alt="Siddhant's Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/sidnegi2511">
-  <img  alt="Siddhant's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/sid_negi2511/">
-  <img  alt="Siddhant's Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/siddhant.negi.10/">
-  <img  alt="Siddhant's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+ <p align>
+  <code><a href="https://www.linkedin.com/in/siddhant-negi-875a39168/"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Siddhant's linkedin" width="26px" /></a></code>  
+  <code><a href="https://instagram.com/sid_negi2511/" target="blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Siddhant's Instagram" width="26px" /></a></code>
+  <code><a href="https://www.facebook.com/siddhant.negi.10/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Siddhant's Facebook" width="26px" /></a></code>
+  
+  <code><a href="="https://twitter.com/negi_was_here" target="blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="26px" /></a></code>
+
+  <code><a href="https://github.com/sidnegi2511" target="blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="26px"/></a></code> 
+</p>
+
   </samp>
   
   <br>
