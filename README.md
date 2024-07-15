@@ -19,9 +19,9 @@
  <h3>Connect with me</h3>
  <p align>
   <code><a href="https://www.linkedin.com/in/siddhant-negi-875a39168/"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Siddhant's linkedin" width="26px" /></a></code>  
-  <code><a href="https://instagram.com/sid_negi2511/" target="blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Siddhant's Instagram" width="26px" /></a></code>
-  <code><a href="https://www.facebook.com/siddhant.negi.10/" target="blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Siddhant's Facebook" width="26px" /></a></code>
-  <code><a href="https://github.com/sidnegi2511" target="blank"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="26px"/></a></code> 
+  <code><a href="https://instagram.com/sid_negi2511/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" alt="Siddhant's Instagram" width="26px" /></a></code>
+
+  <code><a href="https://github.com/sidnegi2511" target="blank"><img src="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yD/r/5D8s-GsHJlJ.png" width="26px"/></a></code> 
 </p>
  </samp> 
 <br>
