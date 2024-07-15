@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm <a href="https://sidnegi2511.github.io/Initial-Website/"> Siddhant Negi </a></h1>
 <br>
-- 👨‍💻 I'm a Full Stack Developer trying to do better everydat!
+- 👨‍💻 I'm a Full Stack Developer trying to do better everyday!
 <br>
 - 👬 Looking to collaborate for projects.
 <br>
